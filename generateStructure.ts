@@ -28,3 +28,13 @@ const projectStructure = getStructure(process.cwd());
 fs.writeFileSync("project-structure.txt", projectStructure);
 
 console.log("✅ Project structure saved to project-structure.txt");
+
+
+// ------------ Command to run the script -------------
+                // # Compile
+                // npx tsc generateStructure.ts
+                // # Run
+                // node generateStructure.js
+// ------------ Command to run the script -------------
+
+
