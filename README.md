@@ -1,5 +1,5 @@
 
-## NextMart
+## NextMart : Full Stack 
 
 # NextMart - Server
 
